@@ -1,19 +1,19 @@
 ﻿ namespace Assignment_C_1
 {
 
-    //class player
-    //{
-    //    public string name;
-    //}
+    class player
+    {
+        public string name;
+    }
     internal class Program
     {
         static void Main()
         {
             #region point_1
-            //Console.WriteLine("Enter a Number : ");
-            //string input = Console.ReadLine();
-            //int Num = int.Parse(input);
-            //Console.WriteLine(" Number =" + Num);
+            Console.WriteLine("Enter a Number : ");
+            string input = Console.ReadLine();
+            int Num = int.Parse(input);
+            Console.WriteLine(" Number =" + Num);
             #endregion
 
 
